@@ -1,1 +1,2 @@
-print("highway to hell")
+for i in range(10):
+    print("Wtatttttttttttt")
